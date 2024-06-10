@@ -2,18 +2,20 @@
 import Layout from "../layouts/Layout.astro";
 import Link from "../components/Link.astro";
 import { Icon } from "astro-icon/components";
+import PageIntro from "../components/PageIntro.astro";
 ---
 
 <Layout title="thehaj.space" description="thehaj.space">
-	<h1>thehaj.space</h1>
-	<p>
-		Welcome to thehaj.space, a modded Minecraft server. We are a small
-		community of queer people who enjoy playing modded Minecraft together.
-		We have a custom modpack that we play on, which you can download below.
-		You need <Link href="https://modrinth.com/app" external={true}
-			>Modrinth</Link
-		> to install the modpack.
-	</p>
+	<PageIntro title="thehaj.space">
+		<p>
+			Welcome to thehaj.space, a modded Minecraft server. We are a small
+			community of queer people who enjoy playing modded Minecraft together.
+			We have a custom modpack that we play on, which you can download below.
+			You need <Link href="https://modrinth.com/app" external={true}
+				>Modrinth</Link
+			> to install the modpack.
+		</p>
+	</PageIntro>
 	<p>Please message bubblineyuri on Discord in order to get whitelisted :3</p>
 	<br />
 	<a href="https://matix.li/9701ab662fe0" class="btn btn-big btn-green"
