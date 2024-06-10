@@ -1,3 +1,6 @@
+## 1.3.4
+- Added more sounds
+
 ## 1.3.3
 - Blåhaj texture on title screen is being loaded locally now
 - Option to refresh server stats on title screen
