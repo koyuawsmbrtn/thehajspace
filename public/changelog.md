@@ -1,5 +1,6 @@
 ## 1.3.2
 - Add server status and player count to title screen
+- Grace period to show new version banner on title screen
 
 ## 1.3.1
 - The star of the show was missing: Blåhaj
