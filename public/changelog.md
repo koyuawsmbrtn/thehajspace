@@ -1,3 +1,8 @@
+## 1.3.3
+- Blåhaj texture on title screen is being loaded locally now
+- Option to refresh server stats on title screen
+- Fix positioning and localization of the disconnect button
+
 ## 1.3.2
 - Add server status and player count to title screen
 - Grace period to show new version banner on title screen
