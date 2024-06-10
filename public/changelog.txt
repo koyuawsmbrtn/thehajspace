@@ -1,11 +1,13 @@
 1.2.9
 - Fix keybindings
 - Add jukebox button to title screen
+- View changelogs
 
 1.2.8
 - Add a bunch of new mods
 - Text chat improvements
 - Removed 3D model mod as it collides with the Estrogen mod
+- Emoji support
 
 1.2.7
 - Fixed Blahaj model not properly positioned
