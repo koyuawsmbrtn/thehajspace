@@ -70,6 +70,24 @@ h5 {
   font-size: 80%;
 }
 
+@media(max-width:800px) {
+  h1 {
+    font-size: 220%;
+  }
+  h2 {
+    font-size: 180%;
+  }
+  h3 {
+    font-size: 120%;
+  }
+  h4 {
+    font-size: 100%;
+  }
+  h5 {
+    font-size: 80%;
+  }
+}
+
 summary {
   h1,
   h2,
@@ -129,4 +147,9 @@ code {
 
 small {
   font-size: 8pt;
+}
+
+#version {
+  margin-top: 4px;
+  margin-left: 16px;
 }

@@ -3,6 +3,7 @@ import Layout from "../layouts/Layout.astro";
 import Link from "../components/Link.astro";
 import { Icon } from "astro-icon/components";
 import PageIntro from "../components/PageIntro.astro";
+import minecraft from "../../public/minecraft.json";
 ---
 
 <Layout title="thehaj.space" description="thehaj.space">
@@ -21,6 +22,5 @@ import PageIntro from "../components/PageIntro.astro";
 	<a href="https://matix.li/b132e4c760d4" class="btn btn-big btn-green"
 		><Icon name="mingcute:download-3-line" class="icon" /> Download modpack</a
 	>
-	<br><br>
-	<small>gallery coming soon ^_^</small>
+	<p id="version"><small>Modpack version {minecraft.version}</small></p>
 </Layout>
