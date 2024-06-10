@@ -1,3 +1,6 @@
+## 1.3.1
+- The star of the show was missing: Blåhaj
+
 ## 1.3.0
 - Fix keybinding for people who don't have a Mouse 5 button. This fixes the ping wheel.
 - Middle button for creative mode now bound to right alt
@@ -17,7 +20,7 @@
 - Emoji support
 
 ## 1.2.7
-- Fixed Blahaj model not properly positioned
+- Fixed Blåhaj model not properly positioned
 - Mute voice chat by default
 
 ## 1.2.6
