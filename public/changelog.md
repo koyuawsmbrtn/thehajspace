@@ -1,3 +1,8 @@
+## 1.3.5
+- Update all mods to the latest version
+- Add inventory sorting, quick stacking and quick moving
+- Added WTHIT which shows you what block or mob you're pointing at
+
 ## 1.3.4
 - Added more sounds
 
