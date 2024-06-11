@@ -1,3 +1,6 @@
+## 1.3.7
+- Fixes a texture load bug for gay beds on the client side
+
 ## 1.3.6
 - Fixes a bug where gay beds could crash the server
 
