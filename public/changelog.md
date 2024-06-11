@@ -1,3 +1,6 @@
+## 1.3.6
+- Fixes a bug where gay beds could crash the server
+
 ## 1.3.5
 - Update all mods to the latest version
 - Add inventory sorting, quick stacking and quick moving
