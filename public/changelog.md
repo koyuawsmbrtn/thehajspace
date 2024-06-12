@@ -1,5 +1,8 @@
-## 2.0.0
+## 2.1.0
+- Fixed performance issues and memory leaks
+- Fixed UI bugs
 
+## 2.0.0
 **Major update!!**
 
 - Added a bunch of mods
