@@ -1,3 +1,13 @@
+## 2.0.0
+
+**Major update!!**
+
+- Added a bunch of mods
+- Updated all mods
+- Fixed compatibility issues
+
+**Note:** Please bump up your RAM requirements up to 8192MB or higher due to the size of the modpack
+
 ## 1.3.7
 - Fixes a texture load bug for gay beds on the client side
 
