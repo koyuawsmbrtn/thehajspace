@@ -1,3 +1,6 @@
+## 2.1.1
+- Fix keybinds
+
 ## 2.1.0
 - Fixed performance issues and memory leaks
 - Fixed UI bugs
