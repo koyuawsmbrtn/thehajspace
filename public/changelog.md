@@ -1,6 +1,5 @@
 ## 2.1.4
 - Reverted broken mod
-- Add Nvidium for proper Nvidia support
 - Fix resource pack being broken once again
 
 ## 2.1.3
