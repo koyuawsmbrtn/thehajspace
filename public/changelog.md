@@ -1,3 +1,7 @@
+## 2.1.5
+- Reverted another broken mod that would cause crashes
+- Nvidia fixes
+
 ## 2.1.4
 - Reverted broken mod
 - Fix resource pack being broken once again
