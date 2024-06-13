@@ -1,3 +1,7 @@
+## 2.1.3
+- Updated mods
+- Probably fixes a Sodium bug that will drop FPS when looking at blocks introduced by mods
+
 ## 2.1.2
 - Performance fixes
 - Removed Mojang/Microsoft telemetry
