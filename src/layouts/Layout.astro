@@ -23,19 +23,19 @@ const isVercelProd = import.meta.env.VERCEL_PROD;
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
 
-    <meta property="og:url" content="https://catppuccin.com" />
+    <meta property="og:url" content="https://thehaj.space" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta content="#CBA6F7" data-react-helmet="true" name="theme-color" />
-    <meta property="og:image" content="/embed.png" />
+    <meta content="#BCCEFB" data-react-helmet="true" name="theme-color" />
+    <meta property="og:image" content="/icon.png" />
 
     <meta property="twitter:title" content={title} />
     <meta property="twitter:description" content={description} />
-    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:card" content="article" />
 
     <meta name="darkreader-lock" />
 
-    <link rel="icon" type="image/svg+xml" href="/favicon.png" />
+    <link rel="icon" type="image/svg+xml" href="/icon.png" />
 
     <link type="text/plain" rel="author" href="/humans.txt" />
     <link rel="sitemap" href="/sitemap-index.xml" />
@@ -58,4 +58,13 @@ const isVercelProd = import.meta.env.VERCEL_PROD;
   </body>
 </html>
 
-{isVercelProd && <script is:inline defer data-domain="catppuccin.com" src="https://p.catppuccin.com/js/script.js" />}
+{
+  isVercelProd && (
+    <script
+      is:inline
+      defer
+      data-domain="catppuccin.com"
+      src="https://p.catppuccin.com/js/script.js"
+    />
+  )
+}
