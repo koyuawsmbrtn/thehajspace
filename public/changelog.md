@@ -1,3 +1,7 @@
+## 2.1.2
+- Performance fixes
+- Removed Mojang/Microsoft telemetry
+
 ## 2.1.1
 - Fix keybinds
 
