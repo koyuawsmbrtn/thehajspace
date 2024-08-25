@@ -1,3 +1,9 @@
+## 2.2.0
+- **Breaking**: Removed Applied Energistics 2, Create and all related mods
+- Added strawberries as a treat
+- Updated mods
+- Performance improvements
+
 ## 2.1.5
 - Reverted another broken mod that would cause crashes
 - Nvidia fixes
