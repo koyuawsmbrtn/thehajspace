@@ -1,3 +1,6 @@
+## 2.2.1
+- Re-export pack to hopefully fix a bug where the pack would not load properly
+
 ## 2.2.0
 - **Breaking**: Removed Applied Energistics 2, Create and all related mods
 - Added strawberries as a treat
