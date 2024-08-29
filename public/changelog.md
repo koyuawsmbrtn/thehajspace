@@ -4,6 +4,9 @@
 - Fixed a bug where the pack would not load the menu
 - Fixed a crash
 - Added Essential for more social features
+- Added craftable YouTube-discs
+- Added more biomes
+- Added better waystones (they were too hard to craft)
 - Added Battlepass (kind-of)
 - Removed Herobrine
 
