@@ -1,3 +1,12 @@
+## 2.2.2
+- Re-added Create
+- Updated mods
+- Fixed a bug where the pack would not load the menu
+- Fixed a crash
+- Added Essential for more social features
+- Added Battlepass (kind-of)
+- Removed Herobrine
+
 ## 2.2.1
 - Re-export pack to hopefully fix a bug where the pack would not load properly
 
