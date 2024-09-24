@@ -1,3 +1,11 @@
+## 3.0.0
+- Release on Modrinth
+- Removed copyrighted content
+- Switched to Neoforge
+- New font and resource pack
+- Added Aether mod
+- Removed mods that could potentially break the pack
+
 ## 2.2.2
 - Re-added Create
 - Updated mods
