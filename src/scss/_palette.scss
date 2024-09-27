@@ -1,6 +1,6 @@
 @import "@catppuccin/palette/scss/catppuccin";
 
-// This is a very dirty hack, please never let me write code again
+// This is a very fucking dirty hack, please never let me write code again
 $inverted-text: '';
 @each $flavor, $colors in $palette {
   @if str-index($flavor, "macchiato") {
