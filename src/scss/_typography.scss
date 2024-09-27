@@ -149,7 +149,28 @@ small {
   font-size: 8pt;
 }
 
-#version {
+#dlfooter {
   margin-top: 4px;
   margin-left: 16px;
+}
+
+a {
+  transition: color 250ms ease-in-out;
+
+  color: var(--blue);
+
+  &.muted {
+    color: var(--subtext0);
+  }
+
+  &:hover,
+  &:focus {
+    color: color-mix(in srgb, var(--blue), var(--text) 60%);
+  }
+
+  .external {
+    font-size: 60%;
+    font-weight: 900;
+    vertical-align: super;
+  }
 }

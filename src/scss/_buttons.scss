@@ -1,4 +1,5 @@
 @use "./utils";
+@import '_palette';
 
 @keyframes btnFadeOut {
   to {
@@ -27,6 +28,12 @@
 
   transition: all 350ms ease-in-out;
   cursor: pointer;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: lighten($inverted-text, 5%);
+  }
 
   &-small {
     @include utils.containerPadding(xxs);

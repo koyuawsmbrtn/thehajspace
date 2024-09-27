@@ -1,0 +1,20 @@
+---
+import { Icon } from "astro-icon/components";
+import minecraft from "../../public/minecraft.json";
+---
+
+<a href="#" class="btn btn-big btn-green" data-dlbtn
+><Icon name="mingcute:download-3-line" class="icon" target="_blank" /> Download modpack</a
+>
+<p id="dlfooter"><small>Modpack version {minecraft.version}</small></p>
+
+<script is:inline>
+const buttons = document.querySelectorAll('[data-dlbtn]');
+buttons.forEach((button) => {
+  button.addEventListener('click', (e) => {
+    e.preventDefault();
+    window.open('modrinth://mod/thehaj.space', '_self');
+    document.getElementById('dlfooter').innerHTML = '<small><a href="https://modrinth.com/modpack/thehaj.space" target="_blank">Not downloading? Click here!</a></small>';
+  });
+});
+</script>
